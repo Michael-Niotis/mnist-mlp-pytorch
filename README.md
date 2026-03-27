@@ -6,7 +6,6 @@ Train and analyze a linear classifier plus shallow/deep MLP baselines on MNIST, 
 
 Notebook: [ML_project.ipynb](Notebook/ML_project.ipynb)
 
-Report: [Stat_ML_project_report.pdf](Report/Stat_ML_project_report.pdf)
 
 ## What’s inside
 
@@ -22,7 +21,6 @@ Report: [Stat_ML_project_report.pdf](Report/Stat_ML_project_report.pdf)
 - Retrain the chosen MLP with different L2 strengths to observe **overfitting** (train vs test loss & accuracy).
 - Track **per-class accuracy** over epochs to see which digits are learned faster.
 
-(See the report for full methodology, plots, and discussion.)
 
 ## Results (summary)
 
