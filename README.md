@@ -32,7 +32,7 @@ Each class weight vector can be reshaped to **28×28** to form an interpretable 
 
 ![Learned Class-Weight Templates](Assets/weights_visualization.png)
 
-### Best MLP model (from report):
+### Best MLP model (from experiments):
 - Best-performing model selected: **Shallow MLP (784 → 512 → 10)**  
 - Test accuracy: **98.05%**
 - Confusion matrix analysis highlights stronger confusion for digit **9** (e.g., with 3/4/7), and some confusion of **5** as **3**, consistent with visual similarity.
