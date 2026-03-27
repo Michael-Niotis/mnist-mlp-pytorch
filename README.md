@@ -2,7 +2,6 @@
 
 Train and analyze a linear classifier plus shallow/deep MLP baselines on MNIST, with an emphasis on **generalization** (L2 regularization, overfitting curves) and **error analysis** (confusion matrix).
 
-> Completed following the scope of a Statistical Machine Learning course project (predefined tasks).  
 > Implementation, evaluation, and visualizations were done by me in PyTorch, with a focus on clear experiment structure and interpretable results.
 
 Notebook: [ML_project.ipynb](Notebook/ML_project.ipynb)
